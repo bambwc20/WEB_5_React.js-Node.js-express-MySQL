@@ -1,0 +1,16 @@
+.comment_box_line {
+  border: 1px gray solid;
+  padding: 25px;
+  width: 500px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+.comment_textarea {
+  width: 500px;
+  height: 100px;
+}
+.comment_input_box {
+  width: 315px;
+}

@@ -1,0 +1,13 @@
+.control_button button a {
+  color: black;
+}
+.control_button button {
+  display: block;
+  margin: 10px;
+}
+.control_button {
+  margin: 10px;
+}
+.control_button form {
+  margin: 10px;
+}

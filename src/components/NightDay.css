@@ -1,0 +1,9 @@
+.button {
+  display: inline;
+  border: 1px gray solid;
+  padding: 15px;
+}
+.box {
+  text-align: center;
+  margin-top: 100px;
+}
